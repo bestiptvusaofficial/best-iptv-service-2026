@@ -10,17 +10,37 @@ Whether you're searching for the best IPTV for Firestick, premium sports streami
 
 ---
 
+## Quick Access
+
+- **[FreeGoTV](https://freegotv.com)**
+- **[BexyTV](https://bexytv.com)**
+- **[TereaTV](https://www.tereatv.com)**
+- **[ViewTVY](https://www.viewtvy.com)**
+- **[VinomTV](https://vinomtv.com)**
+- 
+-  - [Compare IPTV Providers](#best-iptv-providers)
+- [Official IPTV Websites](#official-iptv-websites)
+- [Free IPTV Trials](#free-iptv-trials)
+- [IPTV Pricing Comparison](#iptv-pricing-comparison)
+- [Best IPTV Apps](#best-iptv-apps)
+- [Firestick Setup Guide](#firestick-setup-guide)
+- [Sports Streaming Guide](#sports-streaming-guide)
+- [Movies & Video On Demand](#movies--video-on-demand)
+---
+
 # TL;DR
 
 If you're short on time, these are our current recommendations.
 
+###  Top Picks
+
 | Category | Recommended Provider |
 |------------|----------------------|
-| Best Overall IPTV | FreeGoTV |
-| Best IPTV for Sports | TereaTV |
-| Best IPTV for USA & Canada | BexyTV |
-| Best IPTV for Movies & VOD | ViewTVY |
-| Best Budget IPTV | VinomTV |
+|  Best Overall IPTV | **FreeGoTV** |
+|  Best IPTV for Sports | **TereaTV** |
+|  Best IPTV for USA & Canada | **BexyTV** |
+|  Best IPTV for Movies & VOD | **ViewTVY** |
+|  Best Budget IPTV | **VinomTV** |
 
 ---
 
@@ -42,7 +62,6 @@ If you're short on time, these are our current recommendations.
 - [Final Verdict](#final-verdict)
 
 ---
-
 # Popular Searches
 
 - Best IPTV Service
