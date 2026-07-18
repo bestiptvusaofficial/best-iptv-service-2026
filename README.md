@@ -25,12 +25,12 @@ Discover the best IPTV services for live TV, sports, PPV events, movies, TV seri
 
 ### Providers List
 
-- FreeGoTV — Explore Free Trial
-- BexyTV — Start Free Trial
-- TereaTV — Activate Free Trial
-- ViewTVY — Watch Free Now
-- VinomTV — Try It Free
-- EarthWebTV — Claim Your Trial
+- FreeGoTV – [Explore Free Trial](https://freegotv.com/free-trial/)
+- BexyTV – [Start Free Trial](https://bexytv.com/plans.html)
+- TereaTV – [Activate Free Trial](https://www.tereatv.com/pricing)
+- ViewTVY – [Watch Free Now](https://www.viewtvy.com/pricing/)
+- VinomTV – [Try It Free](https://vinomtv.com/pricing/)
+- EarthWebTV – [Claim Your Trial](https://earthwebtv.com/iptv-free-trial/)
 
 ---
 
